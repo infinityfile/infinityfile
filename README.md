@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego C. Pimentel</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinityfile&label=Profile%20views&color=0e75b6&style=flat" alt="infinityfile" /> </p>
 
